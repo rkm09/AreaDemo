@@ -1,0 +1,3 @@
+# MyArea
+
+rectangle area caliculate
